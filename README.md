@@ -83,7 +83,6 @@ Then open your browser at http://127.0.0.1:7860.
 
 Prompt: "A fantasy anime girl with silver hair and blue eyes standing in a magical forest"
 
-<img src="samples/sample1.png" width="400">
 ---
 
 ## Project Structure
