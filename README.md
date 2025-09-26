@@ -124,6 +124,6 @@ Data: Danbooru, anime community datasets
 
 ---
 
-📜 License
+## License
 
 This project is open-source under the MIT License. Please verify license compatibility of model weights before use.
