@@ -1,30 +1,30 @@
-📌 Project Title: Text-to-Anime Image Generator using OpenJourney
+## Project Title: Text-to-Anime Image Generator using OpenJourney
 
 
 ---
 
-📝 Description
+## Description
 
 This project allows you to generate high-quality anime-style images from text prompts using the OpenJourney model (a fine-tuned version of Stable Diffusion optimized for anime art). It supports creative tasks like character design, anime poster creation, and story visualization — powered by Generative AI.
 
 
 ---
 
-🎯 Features
+## Features
 
-🧠 Foundation Model: OpenJourney (Stable Diffusion fine-tune)
+Foundation Model: OpenJourney (Stable Diffusion fine-tune)
 
-🖌️ Generate anime-style illustrations from natural language prompts
+Generate anime-style illustrations from natural language prompts
 
-💡 Easy-to-use Python interface (CLI or Web UI)
+Easy-to-use Python interface (CLI or Web UI)
 
-📦 Support for batch generation and prompt variations
+Support for batch generation and prompt variations
 
 
 
 ---
 
-🧠 Model Used
+## Model Used
 
 Parameter	Description
 
@@ -38,7 +38,7 @@ Training	Fine-tuned on anime datasets like Danbooru
 
 ---
 
-⚙️ Installation
+## Installation
 
 # Clone the repository
 git clone https://github.com/yourusername/text2anime-gen.git
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ---
 
-🧪 Usage (CLI)
+# Usage (CLI)
 
 python generate.py --prompt "a cyberpunk girl with neon lights" --output ./output/girl.png
 
@@ -70,7 +70,7 @@ Optional Arguments:
 
 ---
 
-🌐 Usage (Web UI with Gradio)
+# Usage (Web UI with Gradio)
 
 python app.py
 
@@ -79,14 +79,14 @@ Then open your browser at http://127.0.0.1:7860.
 
 ---
 
-🖼️ Example Output
+## Example Output
 
 Prompt: "A fantasy anime girl with silver hair and blue eyes standing in a magical forest"
 
 <img src="samples/sample1.png" width="400">
 ---
 
-📁 Project Structure
+## Project Structure
 
 text2anime-gen/
 ├── models/               # Pre-trained weights or download scripts
@@ -99,7 +99,7 @@ text2anime-gen/
 
 ---
 
-✅ Requirements
+## Requirements
 
 Python 3.8+
 
@@ -113,7 +113,7 @@ Gradio (for web app)
 
 ---
 
-🚀 Credits
+## Credits
 
 Model: OpenJourney / Stable Diffusion Anime
 
